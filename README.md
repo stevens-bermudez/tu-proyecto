@@ -36,6 +36,7 @@ Copy code
 Once you have installed the dependencies, you can start the application with the following command:
 
 npm start
+npm run dev
 
 csharp
 Copy code
